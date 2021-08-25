@@ -9,6 +9,8 @@ namespace UserRegistration_Reflection
             //Welcome message
             Console.WriteLine("Welcome To User registration using Reflection !");
             Console.WriteLine("===============================================");
+
+            UserReflection.ReflectionTest();
         }
     }
 }
